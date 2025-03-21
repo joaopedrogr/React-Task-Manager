@@ -58,12 +58,12 @@ The application makes use of Local Storage to store user information and prefere
 
 Example of Local Storage Implementation:
 
-![Local Storage](assets/localStorage.png)
+![Local Storage](React-Task-Manager/assets/localStorage.png)
 
 ## 🖼️ Screenshots
 
 
-![Home](assets/home.png)
+![Home](React-Task-Manager/assets/home.png)
 
 
 ## 🎯 Learning Objectives
